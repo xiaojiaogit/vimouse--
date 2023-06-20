@@ -37,6 +37,3 @@ y:ctrl-c c:ctrl-x p:ctrl-v u:ctrl-z
 
 Hope it helps :)
 
-* * *
-### 如果你觉得不错，那就请我喝杯咖啡吧~
-![wx](wx.jpg)
